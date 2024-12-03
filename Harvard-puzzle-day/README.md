@@ -1,5 +1,5 @@
 <h1> CS50's puzzle day competition</h1>
-<img src="src/CS50.png">
+<img src="assets/CS50.png">
 <p>Puzzle day is an event that is hold every year at <b>Harvard University</b>, the main goal is to solve a packet of puzzles (logic problems) in teams with no programming or CS experience required to do so! </p>
 <section>
 <h2>How does it work?</h2>

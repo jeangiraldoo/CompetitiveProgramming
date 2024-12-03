@@ -1,5 +1,5 @@
-<h1>Advent of CODE</h1>
-<img src="./src/advent-of-code.png">
+<h1>Advent of Code</h1>
+<img src="./assets/advent-of-code.png">
 <section>
     <br>
     <p>Advent of code is an advent calendar of programming puzzles that is carried out every year, every puzzle varies on difficulty and can be solved in any programming language that the participant wants.</p>
